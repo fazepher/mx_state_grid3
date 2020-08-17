@@ -7,4 +7,4 @@ As an example, we can make a visualization of the 2018 Federal Election to the S
 ![ejemplo_geofacet_mx](https://github.com/fazepher/mx_state_grid3/blob/master/Ejemplo_geofacet_mx.PNG)
 
 
-Just for completeness, I will say that Mexico's Senate election is a mixed system with these 96 (64 MR + 32 PM) directly elected Senators and 32 Senators elected proportionally according to the national share of votes each party had. Mexico 2018
+Just for completeness, I will say that Mexico's Senate election is a mixed system with these 96 (64 MR + 32 PM) directly elected Senators and 32 Senators elected proportionally according to the national share of votes each party had.
